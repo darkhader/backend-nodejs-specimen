@@ -1,0 +1,154 @@
+[
+  {
+    "id": "lamdep",
+    "name": "Làm đẹp"
+  },
+  {
+    "id": "sachbaovantho",
+    "name": "Sách báo văn thơ"
+  },
+  {
+    "id": "otoxemay",
+    "name": "Ô tô xe máy"
+  },
+  {
+    "id": "amnhac",
+    "name": "Âm nhạc"
+  },
+  {
+    "id": "giaitri",
+    "name": "Giải trí"
+  },
+  {
+    "id": "nhadat",
+    "name": "Nhà đất"
+  },
+  {
+    "id": "dautu-quyhoach",
+    "name": "Đầu tư - Quy hoạch"
+  },
+  {
+    "id": "tinhyeu",
+    "name": "Tình yêu"
+  },
+  {
+    "id": "thitruong",
+    "name": "Thị trường"
+  },
+  {
+    "id": "kinhte",
+    "name": "Kinh tế"
+  },
+  {
+    "id": "suckhoe",
+    "name": "Sức khỏe"
+  },
+  {
+    "id": "hocbong",
+    "name": "Học bổng"
+  },
+  {
+    "id": "khonggiansong",
+    "name": "Không gian sống"
+  },
+  {
+    "id": "cntt",
+    "name": "Công nghệ thông tin"
+  },
+  {
+    "id": "khcn",
+    "name": "Khoa học công nghệ"
+  },
+  {
+    "id": "sankhau",
+    "name": "Sân khấu"
+  },
+  {
+    "id": "vanhoa",
+    "name": "Văn hóa"
+  },
+  {
+    "id": "dulich",
+    "name": "Du lịch"
+  },
+  {
+    "id": "tuyendung",
+    "name": "Tuyển dụng"
+  },
+  {
+    "id": "thietbi-phancung",
+    "name": "Thiết bị - Phần cứng"
+  },
+  {
+    "id": "hinhsu",
+    "name": "Hình sự"
+  },
+  {
+    "id": "daotao",
+    "name": "Đào tạo"
+  },
+  {
+    "id": "thethao",
+    "name": "Thể thao"
+  },
+  {
+    "id": "phapluat",
+    "name": "Pháp luật"
+  },
+  {
+    "id": "amthuc",
+    "name": "Ẩm thực"
+  },
+  {
+    "id": "khoahoc-tunhien",
+    "name": "Khoa học - Tự nhiên"
+  },
+  {
+    "id": "taichinh",
+    "name": "Tài chính"
+  },
+  {
+    "id": "anninh",
+    "name": "An ninh"
+  },
+  {
+    "id": "thoitrang",
+    "name": "Thời trang"
+  },
+  {
+    "id": "thegioi",
+    "name": "Thế giới"
+  },
+  {
+    "id": "chungkhoan",
+    "name": "Chứng khoán"
+  },
+  {
+    "id": "giaoduc",
+    "name": "Giáo dục"
+  },
+  {
+    "id": "laodong",
+    "name": "Lao động"
+  },
+  {
+    "id": "doinoi-doingoai",
+    "name": "Đối nội - Đối ngoại"
+  },
+  {
+    "id": "thoisu",
+    "name": "Thời sự"
+  },
+  {
+    "id": "quanvot",
+    "name": "Quần vợt"
+  },
+  {
+    "id": "xahoi",
+    "name": "Xã hội"
+  },
+  {
+    "id": "bongda",
+    "name": "Bóng đá"
+  }
+]

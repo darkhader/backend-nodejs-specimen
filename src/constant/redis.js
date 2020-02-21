@@ -1,0 +1,16 @@
+export const REDIS = {
+  REFRESH_TOKEN_PREFIX: 'ai-news:refresh-token',
+  OTP_REGISTER_PREFIX: 'ai-news:otp-register',
+  OTP_FORGOT_PASSWORD_PREFIX: 'ai-news:otp-forgot-password',
+  POST_LITE_PREFIX: 'ai-news:post-lite',
+  POST_FULL_PREFIX: 'ai-news:post-full',
+  POST_TTL: 86400,
+  IGNORE_PREFIX: 'ai-news:ignore',
+  IGNORE_FLAG_PREFIX: 'ai-news:ignore-flag',
+  BLOCK_PROACTIVE_PREFIX: 'ai-news:block:proactive',
+  BLOCK_PASSIVE_PREFIX: 'ai-news:block:passive',
+  BLOCK_FLAG_PREFIX: 'ai-news:block-flag',
+  IGNORE_FLAG_TTL: 86400,
+  BLOCK_FLAG_TTL: 86400,
+  CATEGORY_INACTIVE_NAMESPACE: 'ai-news:category-inactive',
+};

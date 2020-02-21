@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "ai-news-api",
+      "script": "./dist/index.js",
+      "instances": "max",
+      "exec_mode": "cluster",
+      "env": {
+        "PORT": 3000
+      }
+    },
+    {
+      "name": "ai-news-api",
+      "script": "./dist/index.js",
+      "instances": "max",
+      "exec_mode": "cluster",
+      "env": {
+        "PORT": 3001
+      }
+    }
+  ]
+}

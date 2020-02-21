@@ -1,0 +1,7 @@
+export const TOKEN = {
+  TOKEN_EXPIRED: 86400, // 1 day
+  ANONYMOUS_TOKEN_EXPIRED: 40 * 365 * 86400, // 1 year
+  REFRESH_TOKEN_EXPIRED: 86400 * 90, // 90 days
+  REGISTER_CODE_EXPIRED: 5 * 60, // 5 minutes
+  FORGOT_PASSWORD_CODE_EXPIRED: 5 * 60, // 5 minutes
+};
